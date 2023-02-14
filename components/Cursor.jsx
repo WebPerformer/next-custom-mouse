@@ -19,15 +19,15 @@ function Cursor() {
     }, [])
 
     return (
-        <div class="cursor">
-            <div class="cursor__ball cursor__ball--big">
+        <div className="cursor">
+            <div className="cursor__ball cursor__ball--big">
                 <svg height="30" width="30">
-                    <circle cx="15" cy="15" r="12" stroke-width="0"></circle>
+                    <circle cx="15" cy="15" r="12" strokeWidth="0"></circle>
                 </svg>
             </div>
-            <div class="cursor__ball cursor__ball--small">
+            <div className="cursor__ball cursor__ball--small">
                 <svg height="15" width="15">
-                    <circle cx="5" cy="5" r="4" stroke-width="0"></circle>
+                    <circle cx="5" cy="5" r="4" strokeWidth="0"></circle>
                 </svg>
             </div>
         </div>
