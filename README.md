@@ -1,6 +1,6 @@
 Custom Mouse Cursor
 
-![FireShot Capture 004 - Gabriel Silva Araujo - localhost 2](https://user-images.githubusercontent.com/110235876/218331098-419057bc-c903-4f8d-8a15-497c55cfe413.png)
+![FireShot Capture 012 - Custom Cursor - localhost](https://user-images.githubusercontent.com/110235876/218870483-913a2e54-2236-460d-9762-113adae63172.png)
 
 ## Custom Mouse Cursor
 
@@ -28,5 +28,3 @@ Custom Mouse Cursor
 
 ## Site Online
 (https://next-custom-mouse.vercel.app/)
-
-![FireShot Capture 004 - Gabriel Silva Araujo - localhost](https://user-images.githubusercontent.com/110235876/218330927-49b6b936-8bfb-4827-9570-ed64041ed0da.png)
