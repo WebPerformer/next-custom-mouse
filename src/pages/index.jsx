@@ -24,10 +24,6 @@ export default function Home() {
 
   return (
     <div className="main-content">
-      <div className="title">
-        <div className="small-title">Component Project</div>
-        <div className="big-title">Custom Cursor Mouse</div>
-      </div>
       <div className="hoverble" onMouseEnter={() => onMouseHover()} onMouseLeave={() => onMouseHoverOut()}>Hover me</div>
       <Link target="_blank" href="https://codepen.io/clementGir/pen/RQqvQx"><div className="credits" onMouseEnter={() => onMouseHover()} onMouseLeave={() => onMouseHoverOut()}>Credits: <span>Clement Girault</span> <FiExternalLink/></div></Link>
     </div>
